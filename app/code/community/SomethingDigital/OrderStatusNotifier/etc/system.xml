@@ -58,7 +58,7 @@
                         </emails>
                         <order_status translate="label comment">
                             <label>Notify on Status:</label>
-                            <comment>Statuses to check for and notify of stuck in the selected statuses for more than the time configured in the wait period.</comment>
+                            <comment>Statuses to check for and notify of if stuck in the selected statuses for more than the time configured in the wait period.</comment>
                             <source_model>adminhtml/system_config_source_order_status</source_model>
                             <frontend_type>multiselect</frontend_type>
                             <sort_order>32</sort_order>
